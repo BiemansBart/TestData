@@ -1,6 +1,7 @@
 
 
-[
+{
+ "grafieken": [
    {
       "GraphId": 1,
       "Type": 0,
@@ -43,5 +44,5 @@
       "FifthSubject": null,
       "IsDashboardGraph": false
    }
-]
-
+ ]
+}
