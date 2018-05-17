@@ -1,4 +1,5 @@
-[
+{
+ "Graphs":[ 
    {
       "GraphId": 1,
       "Type": 0,
@@ -33,5 +34,6 @@
       "FourthSubject": null,
       "FifthSubject": null
    }
-]
+ ]
+}
 
