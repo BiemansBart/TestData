@@ -1,13 +1,7 @@
-
-
-{
- "grafieken": [
+[
    {
       "GraphId": 1,
       "Type": 0,
-      "StartDate": "2018-05-17T21:13:22.0390036+02:00",
-      "EndDate": "0001-01-01T00:00:00",
-      "User": null,
       "GraphData": null,
       "GraphDataSecondSubject": null,
       "GraphDataThirdSubject": null,
@@ -20,15 +14,11 @@
       "SecondSubject": null,
       "ThirdSubject": null,
       "FourthSubject": null,
-      "FifthSubject": null,
-      "IsDashboardGraph": false
+      "FifthSubject": null
    },
    {
       "GraphId": 2,
       "Type": 0,
-      "StartDate": "2018-05-17T21:13:22.0390036+02:00",
-      "EndDate": "0001-01-01T00:00:00",
-      "User": null,
       "GraphData": null,
       "GraphDataSecondSubject": null,
       "GraphDataThirdSubject": null,
@@ -41,8 +31,7 @@
       "SecondSubject": null,
       "ThirdSubject": null,
       "FourthSubject": null,
-      "FifthSubject": null,
-      "IsDashboardGraph": false
+      "FifthSubject": null
    }
- ]
-}
+]
+
