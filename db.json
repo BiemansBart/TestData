@@ -1,0 +1,22 @@
+{
+   "GraphId": 1,
+   "Type": 0,
+   "StartDate": "2018-05-17T21:03:43.4240428+02:00",
+   "EndDate": "0001-01-01T00:00:00",
+   "User": null,
+   "GraphData": null,
+   "GraphDataSecondSubject": null,
+   "GraphDataThirdSubject": null,
+   "GraphDataFourthSubject": null,
+   "GraphDataFifthSubject": null,
+   "Labels": null,
+   "Title": null,
+   "Subject": "Brot",
+   "Choice": null,
+   "SecondSubject": null,
+   "ThirdSubject": null,
+   "FourthSubject": null,
+   "FifthSubject": null,
+   "IsDashboardGraph": false
+}
+
