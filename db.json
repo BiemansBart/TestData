@@ -2,7 +2,7 @@
  "Graphs":[ 
    {
       "GraphId": 1,
-      "Type": 0,
+      "Type": 1,
       "GraphData": null,
       "GraphDataSecondSubject": null,
       "GraphDataThirdSubject": null,
@@ -19,7 +19,7 @@
    },
    {
       "GraphId": 2,
-      "Type": 0,
+      "Type": 2,
       "GraphData": null,
       "GraphDataSecondSubject": null,
       "GraphDataThirdSubject": null,
@@ -36,4 +36,9 @@
    }
  ]
 }
+
+
+
+  
+
 
