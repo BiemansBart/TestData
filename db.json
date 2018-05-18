@@ -1,42 +1,54 @@
-{
- "Graphs":[ 
-   {
-      "GraphId": 1,
-      "Type": 1,
-      "GraphData": null,
-      "GraphDataSecondSubject": null,
-      "GraphDataThirdSubject": null,
-      "GraphDataFourthSubject": null,
-      "GraphDataFifthSubject": null,
-      "Labels": null,
-      "Title": "test",
-      "Subject": "Brot",
-      "Choice": null,
-      "SecondSubject": null,
-      "ThirdSubject": null,
-      "FourthSubject": null,
-      "FifthSubject": null
-   },
-   {
-      "GraphId": 2,
-      "Type": 2,
-      "GraphData": null,
-      "GraphDataSecondSubject": null,
-      "GraphDataThirdSubject": null,
-      "GraphDataFourthSubject": null,
-      "GraphDataFifthSubject": null,
-      "Labels": null,
-      "Title": "testGrafiek2",
-      "Subject": "Jori",
-      "Choice": null,
-      "SecondSubject": null,
-      "ThirdSubject": null,
-      "FourthSubject": null,
-      "FifthSubject": null
-   }
- ]
+    {
+     "Graphs":[  
+         {
+         "GraphId": 1,
+         "Type": 0,
+         "GraphData": [
+            "1",
+            "2",
+            "4",
+            "13"
+         ],
+         "GraphDataSecondSubject": [
+            "13",
+            "6",
+            "4",
+            "13"
+         ],
+         "GraphDataThirdSubject": [
+            "9",
+            "23",
+            "4",
+            "13"
+         ],
+         "GraphDataFourthSubject": [
+            "1",
+            "22",
+            "4",
+            "7"
+         ],
+         "GraphDataFifthSubject": [
+            "14",
+            "2",
+            "3",
+            "13"
+         ],
+         "Labels": [
+            "label 1",
+            "label 2",
+            "label 3",
+            "label 4"
+         ],
+         "Title": "Grafiek titel",
+         "Subject": "Brot",
+         "Choice": null,
+         "SecondSubject": "Ivan Sladkov",
+         "ThirdSubject": "Remu smoots",
+         "FourthSubject": "Robbe",
+         "FifthSubject": "Geert Bourgeoius"
+      }
+  ]
 }
-
 
 
   
