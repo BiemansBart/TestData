@@ -1,8 +1,9 @@
-    {
-     "Graphs":[  
-         {
+
+{
+    "Graphs :" [   
+      {
          "GraphId": 1,
-         "Type": 2,
+         "Type": 0,
          "GraphData": [
             "1",
             "2",
@@ -46,9 +47,82 @@
          "ThirdSubject": "Remu smoots",
          "FourthSubject": "Robbe",
          "FifthSubject": "Geert Bourgeoius"
+      },
+      {
+         "GraphId": 2,
+         "Type": 2,
+         "GraphData": [
+            "1",
+            "8",
+            "4",
+            "16"
+         ],
+         "GraphDataSecondSubject": [
+            "17",
+            "3",
+            "12",
+            "13"
+         ],
+         "GraphDataThirdSubject": [
+            "5",
+            "23",
+            "7",
+            "13"
+         ],
+         "GraphDataFourthSubject": null,
+         "GraphDataFifthSubject": null,
+         "Labels": [
+            "label 1",
+            "label 2",
+            "label 3"
+         ],
+         "Title": "Grafiek titel grafiek 2",
+         "Subject": "Robbe",
+         "Choice": null,
+         "SecondSubject": "Ivan Sladkov",
+         "ThirdSubject": "Remu smoots",
+         "FourthSubject": null,
+         "FifthSubject": null
+      },
+      {
+         "GraphId": 3,
+         "Type": 1,
+         "GraphData": [
+            "1",
+            "23",
+            "9",
+            "16"
+         ],
+         "GraphDataSecondSubject": [
+            "7",
+            "23",
+            "8",
+            "13"
+         ],
+         "GraphDataThirdSubject": [
+            "12",
+            "23",
+            "33",
+            "13"
+         ],
+         "GraphDataFourthSubject": null,
+         "GraphDataFifthSubject": null,
+         "Labels": [
+            "label 1",
+            "label 2",
+            "label 3"
+         ],
+         "Title": "Grafiek titel grafiek 2",
+         "Subject": "Rému",
+         "Choice": null,
+         "SecondSubject": "Ivan Sladkov",
+         "ThirdSubject": "Remu smoots",
+         "FourthSubject": null,
+         "FifthSubject": null
       }
-  ]
+   ]
 }
+
 
 
   
